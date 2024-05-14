@@ -1,0 +1,8 @@
+.list-images{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 960px;
+    margin: auto;
+    gap: 1rem;
+}
